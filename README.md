@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi, I'm Ameer 👋
 
-<!--
-**AmeerArsala/AmeerArsala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What I'm up to
+- AI-related projects at scale
+- Student
 
-Here are some ideas to get you started:
+#### Interests
+- AI & ML
+- Software Engineering
+- R&D
+- Data Science
+- Game Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 Connect with Me
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ameer-arsala-93a6781b0/)
+- ✉️ Email: ameer.arsala03@gmail.com or aarsala@calpoly.edu
+- 💼 LinkedIn: 
+- 🚀 I'm 
