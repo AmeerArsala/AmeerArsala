@@ -3,7 +3,6 @@
 ### What I'm up to
 - AI R&D
 - Creative
-- Building [RAN](https://ran.so)
 - Open Source Development
 
 #### Interests
